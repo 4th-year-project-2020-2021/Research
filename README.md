@@ -5,3 +5,6 @@ Documentation for Research and links to relevant sites
 2) Live data of virus -
 - https://www.youtube.com/watch?v=T26V1aSEtJE
 - https://www.youtube.com/watch?v=Hyx6OEqtlVg
+
+3) Design idea for Corona virus data - https://coronavirus.app/map
+
