@@ -8,3 +8,8 @@ Documentation for Research and links to relevant sites
 
 3) Design idea for Corona virus data - https://coronavirus.app/map
 
+4) Use d3.csv to convert it into an array of objects
+- https://github.com/d3/d3-fetch/blob/master/README.md#csv
+
+5) Reading in Data/ Parsing CSV Files
+- http://learnjsdata.com/read_data.html
