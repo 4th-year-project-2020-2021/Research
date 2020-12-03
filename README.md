@@ -13,3 +13,5 @@ Documentation for Research and links to relevant sites
 
 5) Reading in Data/ Parsing CSV Files
 - http://learnjsdata.com/read_data.html
+
+6) React navigation - https://www.golangprograms.com/how-to-create-simple-react-router-to-navigate-multiple-pages.html
