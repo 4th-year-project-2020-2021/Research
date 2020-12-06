@@ -15,3 +15,6 @@ Documentation for Research and links to relevant sites
 - http://learnjsdata.com/read_data.html
 
 6) React navigation - https://www.golangprograms.com/how-to-create-simple-react-router-to-navigate-multiple-pages.html
+
+7) data visualization with D3 - https://www.insight.com/en_US/content-and-resources/tech-tutorials/d3-as-a-data-visualization-tool.html
+                                https://www.analyticsvidhya.com/blog/2017/08/visualizations-with-d3-js/
